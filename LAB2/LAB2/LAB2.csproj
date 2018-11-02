@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\..\OneDrive\LAB2 IT 1050.cs" />
+    <Compile Include="..\..\..\..\..\OneDrive\Lab 2 IT 1050 part 2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
